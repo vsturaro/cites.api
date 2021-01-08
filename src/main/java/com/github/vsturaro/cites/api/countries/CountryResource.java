@@ -1,4 +1,4 @@
-package com.github.vsturaro.cites.api;
+package com.github.vsturaro.cites.api.countries;
 
 import com.github.vsturaro.cites.api.countries.Country;
 import com.github.vsturaro.cites.api.countries.repository.CountryRepository;

@@ -1,4 +1,4 @@
-package com.github.vsturaro.cites.api.repository;
+package com.github.vsturaro.cites.api.countries.repository;
 
 import com.github.vsturaro.cites.api.countries.Country;
 import org.springframework.data.jpa.repository.JpaRepository;
